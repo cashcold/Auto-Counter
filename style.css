@@ -1,0 +1,19 @@
+.counters{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    margin-top: 50px;
+}
+.auto__counter{
+    
+    width: 100%;
+    height: 100vh;
+    background-color: black;
+    color: white;
+}
+.container i{
+    color: red;
+}
+.counter{
+    margin: 20px 0;
+    font-size: 2em;
+}
